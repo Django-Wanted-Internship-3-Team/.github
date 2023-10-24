@@ -1,14 +1,14 @@
-![원티드 프리온보딩 백엔드 코스](https://static.wanted.co.kr/images/events/1954/a4449035.jpg)
+![원티드 프리온보딩 백엔드 코스](https://static.wanted.co.kr/images/events/3178/58ac3248.jpg)
 
 # Intro
 <div align="center">
 
 | name | title | profile link | email |
 |------|-------|--------------|-------|
-| 장우경 | 팀장 | [@Bruno-Jang](https://github.com/Bruno-Jang) | sosdnrud@gmail.com |
-| 홍은비 | 팀원 | [@do-not-do-that](https://github.com/do-not-do-that) | silverrain0501@gmail.com |
-| 진병수 | 팀원 | [@castela0119](https://github.com/castela0119) | castela0119@gmail.com |
-| 김수빈 | 팀원 | [@AshbeeKim](https://github.com/AshbeeKim) | ksb.forest@gmail.com |
+| 윤성원 | 팀장 | [@lfoyh6591](https://github.com/lfoyh6591) | lfoyh6591@naver.com |
+| 사재혁 | 팀원 | [@saJaeHyukc](https://github.com/saJaeHyukc) | wogur981208@gmail.com |
+| 박대준 | 팀원 | [@Chestnut90](https://github.com/Chestnut90) | cowzon90@gmail.com |
+| 이슬기 | 팀원 | [@simseulnyang](https://github.com/simseulnyang) | happysseul627@gmail.com |
 
 </div>
 </br>
