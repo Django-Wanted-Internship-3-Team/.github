@@ -15,13 +15,13 @@
 
 안녕하세요. 
 
-원티드에서 진행하는 <large>**프리온보딩 백엔드 코스 2기 C팀**</large>입니다.
+원티드에서 진행하는 <large>**프리온보딩 백엔드 코스 C팀**</large>입니다.
 
-저희가 과제 수행 시에 사용한 언어 및 환경, 수행해야 할 과제 정보 및 진행 현황, 프로젝트를 진행하고 지키고자 협약한 규칙에 대한 내용이 정리된 다음의 목차를 클릭하시면 원하시는 내용을 확인할 수 있습니다.
+저희가 과제 수행 시에 기술스택, 수행해야 할 과제 정보 및 진행 현황, 프로젝트를 진행하고 지키고자 협약한 규칙에 대한 내용이 정리된 다음의 목차를 클릭하시면 원하시는 내용을 확인할 수 있습니다.
 
 </br>
 
-* [Environments](#environments)
+* [Tech](#tech)
 * [Projects](#projects)
 * [Conventions](#conventions)
     * [Git](#git)
@@ -30,13 +30,13 @@
 </br>
 
 ---
-## Environments
+## Tech
 </br>
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-%20v3.8%20-blue.svg?&style=flat&logo=Python&logoColor=white&labelColor=abcdef&cacheSeconds=3600$logoWidth=60)
-  ![Miniconda](https://img.shields.io/badge/Conda-%20miniconda%20-lightgreen.svg?&style=flat&logo=Anaconda&logoColor=white&labelColor=44A833&cacheSeconds=3600$logoWidth=60)
-  ![MySQL](https://img.shields.io/badge/MySQL-%20v8.0%20-4479A1.svg?&style=flat&logo=MySQL&labelColor=ffffff&cacheSeconds=3600$logoWidth=80)
+  <img src="https://img.shields.io/badge/python 3.11.5-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django 4.2.6-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django rest framework 3.14.0-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 </br>
 
@@ -46,14 +46,6 @@
 * [MADUP](https://github.com/PreOnboarding-Team-C/Madup)
     * [Github Project | Madup](https://github.com/orgs/PreOnboarding-Team-C/projects/1/views/2)
     * [Trello | Madup](https://trello.com/b/s0PLzIuF/madup) 
-* [BEARROBOTICS](https://github.com/PreOnboarding-Team-C/BearRobotics)
-    * [Github Project | BearRobotics](https://github.com/orgs/PreOnboarding-Team-C/projects/2/views/1)
-    * [Trello | BearRobotics](https://trello.com/invite/b/p5wi33w9/38afe63b0131095d4b4e470154b52741/robotics) 
-* [Humanscape](https://github.com/PreOnboarding-Team-C/Humanscape)
-    * [Github Project | Humanscape](https://github.com/orgs/PreOnboarding-Team-C/projects/3/views/2)
-    * [Trello | Humanscape](https://trello.com/invite/b/kLvSNrY9/b1f7a69706839f0e0f6049238a3b5d4b/humanscape)
-* [MoAdata](https://github.com/PreOnboarding-Team-C/MoaData)
-    * [Trello | MoAdata](https://trello.com/invite/b/MhjfeAvw/e520d2ef3b1cd5cd325fcca763f900e0/moadata)
 
 </br>
 
